@@ -1,0 +1,39 @@
+[
+
+    {
+        "code": "GLAR213",
+        "name": "Gale Reef",
+        "length": "4 nights/5 days",
+        "start": "2021",
+        "resort": "Emerald bay 5 stars",
+        "perPerson": "799",
+        "image": "reef1.jpg",
+        "description": "Gale Reef Test."
+    },
+
+    {
+        "code": "FLAR213",
+        "name": "Dawsons Reef",
+        "length": "4 nights/5 days",
+        "start": "2021",
+        "resort": "Dawsons Reef",
+        "perPerson": "799",
+        "image": "reef2.jpg",
+        "description": "Dawsons Reef Test."
+    },
+
+    {
+        "code": "HLAR213",
+        "name": "Claires Reef",
+        "length": "4 nights/5 days",
+        "start": "2021",
+        "resort": "Emerald bay 5 stars",
+        "perPerson": "799",
+        "image": "reef3.jpg",
+        "description": "Claires Reef Test."
+    }
+
+
+
+    
+]
